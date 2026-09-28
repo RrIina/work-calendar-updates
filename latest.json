@@ -1,6 +1,6 @@
 {
-  "versionCode": 0,
-  "version": "0.1.0",
-  "apkUrl": "",
-  "notes": "Канал обновлений создан. APK будет опубликован после подключения автоматической выгрузки."
+  "versionCode": 34,
+  "version": "0.1.0+34",
+  "apkUrl": "https://github.com/RrIina/work-calendar-updates/releases/latest/download/work-calendar.apk",
+  "notes": "Доступна новая версия календаря."
 }
