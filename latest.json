@@ -1,6 +1,6 @@
 {
-  "versionCode": 56,
-  "version": "0.1.0+56",
+  "versionCode": 55,
+  "version": "0.1.0+55",
   "apkUrl": "https://github.com/RrIina/work-calendar-updates/releases/latest/download/app-arm64-v8a-release.apk",
   "notes": "Исправлена календарная сетка виджета."
 }
